@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab 2 - HTML Validation</title>
+</head>
+<body>
+  <h1>Welcome to Lab 2</h1>
+  <p>This paragraph has been corrected and is now complete.</p>
+  <img src="image.jpg" alt="An example image">
+</body>
+</html>
